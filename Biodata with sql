@@ -1,0 +1,14 @@
+CREATE DATABASE profile;
+CREATE TABLE my_profile (iiii VARCHAR(25), iiiii VARCHAR(35));
+INSERT INTO my_profile (iiii, iiiii)
+    VALUES
+    ('Full Name', 'Rian Dermawan'),
+    ('Sex', 'Male'),
+    ('Place & Date of Birth', 'Garut, 7 February 2000'),
+    ('Phone Number', '085795025575'),
+    ('E-mail', 'riandermawan.work@gmail.com'),
+    ('Citizenship', 'Indonesia'),
+    ('Religion', 'Muslim'),
+    ('Blood Type', 'A'),
+    ('Hobbies', 'Explore new things'),
+    ('Social Meida', 'www.linkedin.com/in/riandermawan');
